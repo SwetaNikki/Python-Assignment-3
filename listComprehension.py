@@ -35,4 +35,3 @@ print()
 res = [(y, x) for x in [1,2,3] for y in [1,2,3] ]
 print("[1,2,3]       ....=>  " +   str(res) )
 print()
-
